@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "243201041093",
+    "project_id": "bookifly-project",
+    "storage_bucket": "bookifly-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243201041093:android:0da668cc8e25ec1bfb46ac",
+        "android_client_info": {
+          "package_name": "com.example.airline_reservation_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243201041093-4qbkt6ib4oj4dhnnh4n0riddjb7h01r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airline_reservation_system",
+            "certificate_hash": "e70b2949e977fe57dc3f298abd2c44c1166d0ae1"
+          }
+        },
+        {
+          "client_id": "243201041093-nmq1kbspkr363e83qoa99opdk5nigull.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lIZz5NtIjv7pZbqclAOicmbp8sXg6EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243201041093-nmq1kbspkr363e83qoa99opdk5nigull.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243201041093-68ckvsp6racfk3871apkd0sge32cmmlh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airlineReservationSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
